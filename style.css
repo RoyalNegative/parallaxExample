@@ -85,6 +85,12 @@ html {
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
     background: rgba(0, 0, 0, 0.5);
     padding: 20px;
+    color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .hero-content h1 {
